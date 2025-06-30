@@ -1,6 +1,7 @@
 +++
 draft = false
 title = "Hi, I'm Matthew!"
+noSummary = true
 +++
 
 I'm a Master's student studying ECE at the University of Florida. My professional interests are
