@@ -104,3 +104,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 [taxonomies]
     series = 'series'
     tags = 'tags'
+
+# Recommended for GitHub Pages
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
